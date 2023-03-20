@@ -1,5 +1,9 @@
 # Dissertation_Script
 
+I am not publishing the raw data myself since it does not belong to me.
+For any queries on how data was transformed to fit with the code please contact me directly.
+
+
 Data sources:
 
 Discharge data:
